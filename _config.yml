@@ -26,10 +26,10 @@ nav_pages:
 school_email: school@example.com
 school_phone: +1-123-456-7890
 
-# Add your existing configuration settings above this line
 
 # Link to the custom CSS file
 extra_css:
   - /custom.css
+
 
 
