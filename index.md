@@ -3,27 +3,5 @@ layout: home
 title: Green Meadows Secondary School
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <title>Your School</title>
-</head>
-<body>
-    <header>
-        <!-- Navigation menu goes here -->
-    </header>
-    <section id="home">
-        <!-- Slideshow and about us section goes here -->
-    </section>
-    <!-- Other sections (gallery, contact, meet) go here -->
-    <footer>
-        <!-- Footer content goes here -->
-    </footer>
-    <script src="assets/js/script.js"></script>
-</body>
-</html>
 
 Welcome to the official website of Our School. Learn, Explore, Excel!
