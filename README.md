@@ -1,2 +1,2 @@
 # Gmss94.github.io
-school Website 
+Green Meadows Secondary School
