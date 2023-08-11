@@ -3,7 +3,8 @@ layout: page
 title: Contact Us
 ---
 
-**Contact Information:**
+**Contact Information:** 
+
 Address : A-1 lal bahadur shastri marg, 
 firni road near kali ghata karawal nagar delhi-110094
 
