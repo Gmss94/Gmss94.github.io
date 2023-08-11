@@ -6,9 +6,6 @@ baseurl: "" # Leave this empty for GitHub Pages
 # Theme
 theme: minima # Change this to the theme you've chosen
 
-<link rel="stylesheet" href="/custom.css">
-
-
 # Permalinks
 permalink: /:title/
 
@@ -28,3 +25,10 @@ nav_pages:
 # Custom variables
 school_email: school@example.com
 school_phone: +1-123-456-7890
+
+# Add your existing configuration settings above this line
+
+# Link to the custom CSS file
+extra_css:
+  - /custom.css
+
