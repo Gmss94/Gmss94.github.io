@@ -6,6 +6,9 @@ baseurl: "" # Leave this empty for GitHub Pages
 # Theme
 theme: minima # Change this to the theme you've chosen
 
+<link rel="stylesheet" href="/custom.css">
+
+
 # Permalinks
 permalink: /:title/
 
