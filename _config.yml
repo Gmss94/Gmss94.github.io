@@ -1,0 +1,27 @@
+# Site settings
+title: My School Website
+description: Welcome to Our School's Website
+baseurl: "" # Leave this empty for GitHub Pages
+
+# Theme
+theme: minima # Change this to the theme you've chosen
+
+# Permalinks
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Navigation
+nav_pages:
+  - title: Home
+    url: /
+  - title: Gallery
+    url: /gallery/
+  - title: Contact
+    url: /contact/
+
+# Custom variables
+school_email: school@example.com
+school_phone: +1-123-456-7890
