@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Green Meadows Secondary School
+title: Home 
 ---
 
 
