@@ -17,4 +17,4 @@ Karawal Nagar, Delhi, 110094
 
 **B. DOCUMENTS AND INFORMATION**
 
-1. Academic calender [Link](https://drive.google.com/drive/folders/1zWJJ3DXmfQLBCq2KYnwAsupljPtIpN8q){:target="_blank"}
+1. Academic calender [Link](https://drive.google.com/file/d/1CU2JGjxxrgu6tLwQcoqaYk5JNQqdRvKP/view?usp=drive_link){:target="_blank"}
