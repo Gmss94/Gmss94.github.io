@@ -21,6 +21,8 @@ nav_pages:
     url: /gallery/
   - title: Contact
     url: /contact/
+  - title: Mandatory Public Disclosure
+    url: /Mandatory Public Disclosure/
 
 # Custom variables
 school_email: school@example.com
