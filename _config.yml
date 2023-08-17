@@ -4,7 +4,7 @@ description: Welcome to Our School's Website
 baseurl: "" # Leave this empty for GitHub Pages
 
 # Theme
-theme: cayman # Change this to the theme you've chosen
+theme: minima # Change this to the theme you've chosen
 
 # Permalinks
 permalink: /:title/
