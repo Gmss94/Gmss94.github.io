@@ -16,7 +16,7 @@ title: Mandatory Public Disclosure
     firni road, near Kali Ghata Road,
    Karawal Nagar, Delhi, 110094
   	
-5.	PRINCIPAL NAME - mr. rajvir singh
+5.	PRINCIPAL NAME - Mr. Rajvir Singh 
 
 6.	SCHOOL EMAIL ID	greenmeadowssecondaryschool@gmail.com
 	
