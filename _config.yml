@@ -5,10 +5,10 @@ baseurl: "" # Leave this empty for GitHub Pages
 
 # Theme
 theme: minima # Change this to the theme you've ch
-sass:
-  style: compressed
-  load_paths:
-    - _sass
+#sass:
+ # style: compressed
+#  load_paths:
+  #  - _sass
 
 # Permalinks
 permalink: /:title/
@@ -33,13 +33,13 @@ nav_pages:
  
 
 # Custom variables
-school_email: school@example.com
-school_phone: +1-123-456-7890
+#school_email: school@example.com
+#school_phone: +1-123-456-7890
 
 
 # Link to the custom CSS file
-include:
-  - custom.css
+#include:
+ # - custom.css
 
 
 
