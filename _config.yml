@@ -34,8 +34,8 @@ school_phone: +1-123-456-7890
 
 
 # Link to the custom CSS file
-extra_css:
-  - /custom.css
+include:
+  - custom.css
 
 
 
