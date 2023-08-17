@@ -15,14 +15,15 @@ plugins:
 
 # Navigation
 nav_pages:
-   - title: Mandatory Public Disclosure
+  - title: Home
+    url: /
+  - title: Mandatory Public Disclosure
     url: /Mandatory Public Disclosure/
   - title: Gallery
     url: /gallery/
   - title: Contact
     url: /contact/
-  - title: Home
-    url: /
+  
   
   
  
