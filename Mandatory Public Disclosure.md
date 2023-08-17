@@ -3,9 +3,8 @@ layout: page
 title: Mandatory Public Disclosure
 ---
 
-A. GENERAL INFORMATION
+**A. GENERAL INFORMATION**
 
-SL NO.	INFORMATION	UPLOAD DOCUMENTS
 1.	NAME OF THE SCHOOL	green meadows secondary school
 2.	AFFILIATION NO. (IF APPLICABLE)	1130 534
 3.	SCHOOL CODE (IF APPLICABLE)	30471
@@ -16,7 +15,6 @@ Karawal Nagar, Delhi, 110094
 6.	SCHOOL EMAIL ID	grrenmeadowssecondaryschool@gmail.com
 7.	CONTACT DETAILS (MOBILE AND LANDLINE)	(+91) 8802323756 (Mobile)
 
-B. DOCUMENTS AND INFORMATION
+**B. DOCUMENTS AND INFORMATION**
 
-SL NO.	DOCUMENTS/ INFORMATION	UPLOAD DOCUMENTS
 1. Academic calender [Link](https://drive.google.com/drive/folders/1zWJJ3DXmfQLBCq2KYnwAsupljPtIpN8q){:target="_blank"}
