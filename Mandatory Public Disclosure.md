@@ -1,6 +1,7 @@
-layout	title
-page
-Mandatory Public Disclosure
+---
+layout: page
+title: Mandatory Public Disclosure
+---
 
 A. GENERAL INFORMATION
 
