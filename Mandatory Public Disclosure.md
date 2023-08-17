@@ -19,4 +19,4 @@ Karawal Nagar, Delhi, 110094
 B. DOCUMENTS AND INFORMATION
 
 SL NO.	DOCUMENTS/ INFORMATION	UPLOAD DOCUMENTS
-1. Academic calender [Link](https://github.com/Gmss94/Gmss94.github.io/blob/main/assets/Mandatory%20Public%20Disclosure/Academic%20calender.jpg){:target="_blank"}
+1. Academic calender [Link](https://drive.google.com/drive/folders/1zWJJ3DXmfQLBCq2KYnwAsupljPtIpN8q){:target="_blank"}
