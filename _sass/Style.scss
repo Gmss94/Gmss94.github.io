@@ -1,0 +1,18 @@
+// Set primary color
+$primary-color: #00b300; // Green color
+
+// Set background color
+$background-color: #ffffff; // White color
+
+// Import the Minima theme
+@import "minima";
+
+// Additional custom styles
+.header {
+    background-color: $primary-color;
+    color: white;
+}
+
+body {
+    background-color: $background-color;
+}
