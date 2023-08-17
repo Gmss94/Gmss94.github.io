@@ -1,3 +1,6 @@
+layout	title
+page
+Mandatory Public Disclosure
 
 A. GENERAL INFORMATION
 
