@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 /* Apply styles to the body */
 body {
   background-color: white; /* White background */
