@@ -21,6 +21,5 @@ title: Gallery
 
 ![IMG-20230811-WA0013](assets/images/IMG-20230811-WA0013.jpg)
 
-![WhatsApp Video 2023-09-27 at 10.12.44 AM](assets/WhatsApp Video 2023-09-27 at 10.12.44 AM.mp4).
 
 
