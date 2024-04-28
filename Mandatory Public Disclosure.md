@@ -40,3 +40,23 @@ title: Mandatory Public Disclosure
 
 8. Society members list [Link](https://drive.google.com/file/d/1UbAkKY186MsnCqtW32r4AERxa5bv0uIL/view?usp=sharing){:target="_blank"}
 
+9. Recognition certificate [Link](https://drive.google.com/file/d/1xPhX4E1hsOcdkWeaBYXblqdDOdqQOprX/view?usp=sharing){:target="_blank"}
+
+10. Extention Provisional [Link](https://drive.google.com/file/d/11BmBu-JlJ1vLDu5P2AP_5BB0z6wZOvXm/view?usp=sharing){:target="_blank"}
+
+11. Self Certification [Link](https://drive.google.com/file/d/1m1vI8QlXHcUMwoXcLU-s7JsUptvnqNru/view?usp=sharing){:target="_blank"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
