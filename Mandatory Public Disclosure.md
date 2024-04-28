@@ -46,7 +46,7 @@ title: Mandatory Public Disclosure
 
 11. Self Certification [Link](https://drive.google.com/file/d/1m1vI8QlXHcUMwoXcLU-s7JsUptvnqNru/view?usp=sharing){:target="_blank"}
 
-
+12. Structutal Stability Certificate [Link](https://drive.google.com/file/d/1jPg8508dMmjfOxhDCq7DcI1twLVhOwf6/view?usp=sharing){:target="_blank"}
 
 
 
