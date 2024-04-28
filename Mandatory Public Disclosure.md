@@ -34,9 +34,9 @@ title: Mandatory Public Disclosure
 
 5. PTA comittee [Link](https://drive.google.com/file/d/19Hygy_vWiIE90Uu_rAz1EBhZLWqlNg14/view?usp=drive_link){:target="_blank"}
 
-6. Safety and water[Link](https://drive.google.com/file/d/19B4tcsHFvw9QVQLSmR6mB4sb-QkAAlVF/view?usp=drive_link){:target="_blank"}
+6. Safety and water [Link](https://drive.google.com/file/d/19B4tcsHFvw9QVQLSmR6mB4sb-QkAAlVF/view?usp=drive_link){:target="_blank"}
  
 7. School fitness [Link](https://drive.google.com/file/d/14A4pXexwqM3fVHb04taHOMnVJaEmVnra/view?usp=drive_link){:target="_blank"}
 
-8. Society members list[Link](https://drive.google.com/file/d/1UbAkKY186MsnCqtW32r4AERxa5bv0uIL/view?usp=sharing){:target="_blank"}
+8. Society members list [Link](https://drive.google.com/file/d/1UbAkKY186MsnCqtW32r4AERxa5bv0uIL/view?usp=sharing){:target="_blank"}
 
