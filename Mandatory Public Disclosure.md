@@ -28,7 +28,7 @@ title: Mandatory Public Disclosure
  
 2. fee structure [Link](https://drive.google.com/file/d/1zCS4RyHVhZFyiNbgjp2tSn7wXrW0aVEh/view?usp=drive_link){:target="_blank"}
  
-3. fire safety certificate [Link](https://drive.google.com/file/d/1yjdlcM28gHjOghL5IBzuxibzjXibzdYM/view?usp=drive_link){:target="_blank"}
+3. fire safety certificate [Link](https://drive.google.com/file/d/1mb2qftz7rJGyd0BbpSOAI-hOMVQIUHCG/view?usp=sharing){:target="_blank"}
 
 4. Managing committee [Link](https://drive.google.com/file/d/1YmNgUr_PPTMbrSuq7yqWu_QDQB9fwdh7/view?usp=drive_link){:target="_blank"}
 
