@@ -24,7 +24,7 @@ title: Mandatory Public Disclosure
 
 **B. DOCUMENTS AND INFORMATION**
 
-1. Academic calender [Link](https://drive.google.com/file/d/1CU2JGjxxrgu6tLwQcoqaYk5JNQqdRvKP/view?usp=drive_link){:target="_blank"}
+1. Academic calender [Link](https://drive.google.com/file/d/1DihCW3XpWOHMY1UqS4GkDLwhK5RtaQHn/view?usp=sharing){:target="_blank"}
  
 2. fee structure [Link](https://drive.google.com/file/d/1zCS4RyHVhZFyiNbgjp2tSn7wXrW0aVEh/view?usp=drive_link){:target="_blank"}
  
