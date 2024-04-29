@@ -26,7 +26,7 @@ title: Mandatory Public Disclosure
 
 1. Academic calender [Link](https://drive.google.com/file/d/1DihCW3XpWOHMY1UqS4GkDLwhK5RtaQHn/view?usp=sharing){:target="_blank"}
  
-2. fee structure [Link](https://drive.google.com/file/d/1zCS4RyHVhZFyiNbgjp2tSn7wXrW0aVEh/view?usp=drive_link){:target="_blank"}
+2. fee structure [Link](https://drive.google.com/file/d/1QX3BjorpZDBfd3cBu518rbKxkrkgDuQK/view?usp=sharing){:target="_blank"}
  
 3. fire safety certificate [Link](https://drive.google.com/file/d/1mb2qftz7rJGyd0BbpSOAI-hOMVQIUHCG/view?usp=sharing){:target="_blank"}
 
@@ -50,7 +50,7 @@ title: Mandatory Public Disclosure
 
 13.  Last Three year results [Link](https://drive.google.com/file/d/1Tpn22vMJ635XlysU9oBbkJmNdbXeklIs/view?usp=sharing){:target="_blank"}
 
-14.  NOC [Link](https://drive.google.com/file/d/1p_n4a7G8amiR-PDKn1KfAWWfwTX6K_HB/view?usp=sharing){:target="_blank"}
+
 
 
 
