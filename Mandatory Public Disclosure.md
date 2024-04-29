@@ -50,6 +50,8 @@ title: Mandatory Public Disclosure
 
 13.  Last Three year results [Link](https://drive.google.com/file/d/1Tpn22vMJ635XlysU9oBbkJmNdbXeklIs/view?usp=sharing){:target="_blank"}
 
+14.  NOC [Link](https://drive.google.com/file/d/1p_n4a7G8amiR-PDKn1KfAWWfwTX6K_HB/view?usp=sharing){:target="_blank"}
+
 
 
 
